@@ -6,7 +6,7 @@ external: 'https://www.flagshippioneering.com/'
 tech:
   - Craft CMS
   - Chart.js
-company: 'Upstatement'
+company: 'Greytip Software Pvt. Ltd.'
 showInProjects: false
 ---
 

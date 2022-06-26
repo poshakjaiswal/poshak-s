@@ -135,10 +135,12 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Poshak Jaiswal and I enjoy creating things that live on the
+              internet. My interest in web development started back in 2012 when I decided to try
+              writing basic computer games in high school and hacking the college CyberRoam network
+              for accessing unlimited internet.My Interests in various fields such as AI/ML,
+              building scalable microservices have taught me a lot about Microservices, Manufacuring
+              , NLP and Computer Vision!
             </p>
 
             <p>
@@ -173,7 +175,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.png"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
